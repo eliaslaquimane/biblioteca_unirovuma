@@ -18,9 +18,10 @@
   left: 0;
   position: fixed;
   right: 0;
-  top: 0;
+  top: 0;  
   z-index: 9999;
   text-align: center;
+  height: 100%;
 }
 .preloader-bounce {
   left: 0;
